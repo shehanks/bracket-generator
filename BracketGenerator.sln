@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator", "src\BracketGenerator\BracketGenerator.csproj", "{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Tests", "tests\BracketGenerator.Tests\BracketGenerator.Tests.csproj", "{7BD0D839-5192-4FEC-904C-98110CEA272E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Models", "src\BracketGenerator.Models\BracketGenerator.Models.csproj", "{85E80D55-3217-49AF-A1A3-85BF6DDF7A7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Providers", "src\BracketGenerator.Providers\BracketGenerator.Providers.csproj", "{5267DA0C-911B-4C58-B937-E60A939FA86B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Providers.Contracts", "src\BracketGenerator.Providers.Contracts\BracketGenerator.Providers.Contracts.csproj", "{F1E5218A-6018-4766-9173-841F110BE3BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Serivces", "src\BracketGenerator.Serivces\BracketGenerator.Serivces.csproj", "{92E2749B-2F7E-47D5-B35F-44E3CB5ADF5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Serivces.Contracts", "src\BracketGenerator.Serivces.Contracts\BracketGenerator.Serivces.Contracts.csproj", "{1CB1343B-264A-4288-8103-845BC3136653}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Utilities", "src\BracketGenerator.Utilities\BracketGenerator.Utilities.csproj", "{F83394DF-2B39-48B4-B74F-6BB4880E0719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9C395EFB-E298-43BB-8083-FC9242FC6961}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketGenerator.Builder", "src\BracketGenerator.Builder\BracketGenerator.Builder.csproj", "{91BA5A5F-4EC8-4286-9CD5-1F26D3715C5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FCC02E-76D2-4A37-96A0-D463BCEDFCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD0D839-5192-4FEC-904C-98110CEA272E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD0D839-5192-4FEC-904C-98110CEA272E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD0D839-5192-4FEC-904C-98110CEA272E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD0D839-5192-4FEC-904C-98110CEA272E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E80D55-3217-49AF-A1A3-85BF6DDF7A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E80D55-3217-49AF-A1A3-85BF6DDF7A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E80D55-3217-49AF-A1A3-85BF6DDF7A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E80D55-3217-49AF-A1A3-85BF6DDF7A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5267DA0C-911B-4C58-B937-E60A939FA86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5267DA0C-911B-4C58-B937-E60A939FA86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5267DA0C-911B-4C58-B937-E60A939FA86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5267DA0C-911B-4C58-B937-E60A939FA86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E5218A-6018-4766-9173-841F110BE3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E5218A-6018-4766-9173-841F110BE3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E5218A-6018-4766-9173-841F110BE3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E5218A-6018-4766-9173-841F110BE3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E2749B-2F7E-47D5-B35F-44E3CB5ADF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E2749B-2F7E-47D5-B35F-44E3CB5ADF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E2749B-2F7E-47D5-B35F-44E3CB5ADF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E2749B-2F7E-47D5-B35F-44E3CB5ADF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB1343B-264A-4288-8103-845BC3136653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB1343B-264A-4288-8103-845BC3136653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB1343B-264A-4288-8103-845BC3136653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB1343B-264A-4288-8103-845BC3136653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83394DF-2B39-48B4-B74F-6BB4880E0719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83394DF-2B39-48B4-B74F-6BB4880E0719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83394DF-2B39-48B4-B74F-6BB4880E0719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83394DF-2B39-48B4-B74F-6BB4880E0719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BA5A5F-4EC8-4286-9CD5-1F26D3715C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BA5A5F-4EC8-4286-9CD5-1F26D3715C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BA5A5F-4EC8-4286-9CD5-1F26D3715C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BA5A5F-4EC8-4286-9CD5-1F26D3715C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7BD0D839-5192-4FEC-904C-98110CEA272E} = {9C395EFB-E298-43BB-8083-FC9242FC6961}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A0D76C-A1EF-454E-8DD2-BD5924951899}
+	EndGlobalSection
+EndGlobal

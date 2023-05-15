@@ -1,0 +1,164 @@
+{
+  "country": [
+    {
+      "group": "A",
+      "seedNo": 1,
+      "name": "Qatar"
+    },
+    {
+      "group": "A",
+      "seedNo": 2,
+      "name": "Ecuador"
+    },
+    {
+      "group": "A",
+      "seedNo": 3,
+      "name": "Senegal"
+    },
+    {
+      "group": "A",
+      "seedNo": 4,
+      "name": "Netherlands"
+    },
+    {
+      "group": "B",
+      "seedNo": 1,
+      "name": "England"
+    },
+    {
+      "group": "B",
+      "seedNo": 2,
+      "name": "Iran"
+    },
+    {
+      "group": "B",
+      "seedNo": 3,
+      "name": "United States"
+    },
+    {
+      "group": "B",
+      "seedNo": 4,
+      "name": "UKR/SCO/WAL"
+    },
+    {
+      "group": "C",
+      "seedNo": 1,
+      "name": "Argentina"
+    },
+    {
+      "group": "C",
+      "seedNo": 2,
+      "name": "Saudi Arabia"
+    },
+    {
+      "group": "C",
+      "seedNo": 3,
+      "name": "Mexico"
+    },
+    {
+      "group": "C",
+      "seedNo": 4,
+      "name": "Poland"
+    },
+    {
+      "group": "D",
+      "seedNo": 1,
+      "name": "France"
+    },
+    {
+      "group": "D",
+      "seedNo": 2,
+      "name": "AUS/URE/PER"
+    },
+    {
+      "group": "D",
+      "seedNo": 3,
+      "name": "Denmark"
+    },
+    {
+      "group": "D",
+      "seedNo": 4,
+      "name": "Tunisia"
+    },
+    {
+      "group": "E",
+      "seedNo": 1,
+      "name": "Spain"
+    },
+    {
+      "group": "E",
+      "seedNo": 2,
+      "name": "CRC/NZL"
+    },
+    {
+      "group": "E",
+      "seedNo": 3,
+      "name": "Germany"
+    },
+    {
+      "group": "E",
+      "seedNo": 4,
+      "name": "Japan"
+    },
+    {
+      "group": "F",
+      "seedNo": 1,
+      "name": "Belgium"
+    },
+    {
+      "group": "F",
+      "seedNo": 2,
+      "name": "Canada"
+    },
+    {
+      "group": "F",
+      "seedNo": 3,
+      "name": "Morocco"
+    },
+    {
+      "group": "F",
+      "seedNo": 4,
+      "name": "Croatia"
+    },
+    {
+      "group": "G",
+      "seedNo": 1,
+      "name": "Brazil"
+    },
+    {
+      "group": "G",
+      "seedNo": 2,
+      "name": "Serbia"
+    },
+    {
+      "group": "G",
+      "seedNo": 3,
+      "name": "Switzerland"
+    },
+    {
+      "group": "G",
+      "seedNo": 4,
+      "name": "Cameroon"
+    },
+    {
+      "group": "H",
+      "seedNo": 1,
+      "name": "Portugal"
+    },
+    {
+      "group": "H",
+      "seedNo": 2,
+      "name": "Ghana"
+    },
+    {
+      "group": "H",
+      "seedNo": 3,
+      "name": "Uruguay"
+    },
+    {
+      "group": "H",
+      "seedNo": 4,
+      "name": "South Korea"
+    }
+  ]
+}

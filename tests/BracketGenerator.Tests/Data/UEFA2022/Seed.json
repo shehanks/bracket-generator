@@ -1,0 +1,84 @@
+{
+  "country": [
+    {
+      "group": "A",
+      "seedNo": 1,
+      "name": "Netherlands"
+    },
+    {
+      "group": "A",
+      "seedNo": 2,
+      "name": "Qatar"
+    },
+    {
+      "group": "A",
+      "seedNo": 3,
+      "name": "England"
+    },
+    {
+      "group": "A",
+      "seedNo": 4,
+      "name": "USA"
+    },
+    {
+      "group": "B",
+      "seedNo": 1,
+      "name": "Argentina"
+    },
+    {
+      "group": "B",
+      "seedNo": 2,
+      "name": "Mexico"
+    },
+    {
+      "group": "B",
+      "seedNo": 3,
+      "name": "France"
+    },
+    {
+      "group": "B",
+      "seedNo": 4,
+      "name": "Denmark"
+    },
+    {
+      "group": "C",
+      "seedNo": 1,
+      "name": "Germany"
+    },
+    {
+      "group": "C",
+      "seedNo": 2,
+      "name": "Japan"
+    },
+    {
+      "group": "C",
+      "seedNo": 3,
+      "name": "Belgium"
+    },
+    {
+      "group": "C",
+      "seedNo": 4,
+      "name": "Canada"
+    },
+    {
+      "group": "D",
+      "seedNo": 1,
+      "name": "Brazil"
+    },
+    {
+      "group": "D",
+      "seedNo": 2,
+      "name": "Cameroon"
+    },
+    {
+      "group": "D",
+      "seedNo": 3,
+      "name": "Portugal"
+    },
+    {
+      "group": "D",
+      "seedNo": 4,
+      "name": "Uruguay"
+    }
+  ]
+}

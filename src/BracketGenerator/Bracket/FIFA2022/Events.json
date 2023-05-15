@@ -1,0 +1,43 @@
+{
+  "winners": [
+    [
+      "Ecuador",
+      "Senegal",
+      "England",
+      "United States",
+      "Argentina",
+      "Mexico",
+      "France",
+      "Denmark",
+      "Spain",
+      "Germany",
+      "Belgium",
+      "Croatia",
+      "Brazil",
+      "Cameroon",
+      "Portugal",
+      "Uruguay"
+    ],
+    [
+      "Senegal",
+      "England",
+      "Argentina",
+      "France",
+      "Spain",
+      "Belgium",
+      "Brazil",
+      "Uruguay"
+    ],
+    [
+      "England",
+      "Argentina",
+      "Spain",
+      "Brazil"
+    ],
+    [
+      "Argentina",
+      "Brazil"
+    ]
+  ],
+  "champion": "Brazil"
+}

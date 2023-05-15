@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BracketGenerator.Models\BracketGenerator.Models.csproj" />
+    <ProjectReference Include="..\BracketGenerator.Providers\BracketGenerator.Providers.csproj" />
+    <ProjectReference Include="..\BracketGenerator.Serivces.Contracts\BracketGenerator.Serivces.Contracts.csproj" />
+    <ProjectReference Include="..\BracketGenerator.Utilities\BracketGenerator.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
